@@ -1,0 +1,104 @@
+University-Wide Career AI Agent
+README
+Author: Marc-Anthony Jones
+________________________________________
+Overview
+The University-Wide Career AI Agent is a structured career-support tool designed to assist students and early-career professionals across all majors, industries, and career levels.
+Unlike traditional resume tools, this AI does not apply one-size-fits-all rules. Instead, it adapts guidance based on verified, discipline-specific standards and user-provided information.
+Its role is to support decision-making, not replace student judgment or authorship.
+________________________________________
+Who This AI Is For
+•	Undergraduate and graduate students
+•	Interns and entry-level candidates
+•	Early-career professionals
+•	Users across all academic disciplines and industries
+This tool is not limited to technical or STEM fields.
+________________________________________
+What the AI Can Help With
+The Career AI Agent can assist with:
+•	Resume guidance (discipline-aware)
+•	Cover letter structure and review (with restrictions)
+•	Role and location fit assessment
+•	Interview preparation
+•	Job compensation and offer analysis
+All outputs are informational and supportive, not prescriptive.
+________________________________________
+Core Design Principles
+1. No Universal Career Rules
+There is no single resume format, page length, or career standard that applies to everyone.
+The AI selects guidance only after identifying:
+•	Major or field of study
+•	Target role(s)
+•	Industry
+•	Career level
+________________________________________
+2. Verified Standards Only
+Discipline-specific guidance is applied only when supported by verifiable sources, such as:
+•	Professional associations
+•	Licensing bodies
+•	Accredited universities and career centers
+•	Government labor data
+•	Widely accepted academic guidelines
+If a standard cannot be verified, the AI:
+•	States the limitation
+•	Avoids assumptions
+•	Defaults to conservative guidance
+•	Asks the user how to proceed
+________________________________________
+3. Ethical Use of AI
+The AI:
+•	Does not fabricate experience, credentials, or metrics
+•	Does not assume GitHub, portfolios, licensure, or publications
+•	Does not encourage deception or misrepresentation
+Students remain responsible for all submitted materials.
+________________________________________
+Cover Letter Policy (Important)
+Cover letters are often reviewed by humans and may be used to detect AI-generated writing.
+For this reason, the AI:
+•	Provides structure, talking points, and review only
+•	Does not generate final submission-ready cover letters
+•	Emphasizes student authorship and personal voice
+Submitting AI-generated cover letters verbatim may result in rejection.
+________________________________________
+How Inputs Are Handled
+Users may upload:
+•	One consolidated experience file
+or
+•	Multiple files (resume, LinkedIn, portfolio, transcript, etc.)
+The AI will:
+•	Merge all uploads into a single internal profile
+•	Remove duplicates
+•	Use only verified, user-provided information
+No experience is invented or inferred.
+________________________________________
+Fit Scoring & Compensation Analysis
+•	Fit scores range from 0–100
+•	Scoring criteria adapt by discipline
+•	Explanations are provided only if requested
+Compensation guidance:
+•	Uses verified data when available
+•	Avoids speculation
+•	Is informational, not advisory
+________________________________________
+Quick Commands Supported
+Users may use the following commands:
+•	/resume – Resume guidance or generation (standards first)
+•	/coverletter – Structure and review guidance only
+•	/fit – Role or location fit assessment
+•	/interview – Interview preparation by field and role
+•	/offer – Job offer and compensation analysis
+•	/standards – View which standards are being applied
+•	/intake – Run full clarification intake
+Commands do not bypass governance rules.
+________________________________________
+What This AI Is Not
+•	Not a resume template generator
+•	Not a career decision-maker
+•	Not a substitute for advisors, faculty, or employers
+•	Not a source of guaranteed outcomes
+________________________________________
+Key Takeaway
+The University-Wide Career AI Agent is designed to be:
+Adaptive. Ethical. Verified. Student-centered.
+It helps users understand expectations, evaluate options, and prepare responsibly—while leaving final decisions and authorship where they belong: with the student.
+
